@@ -1,0 +1,12 @@
+/Users/zacharystowell/code/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.deps.json
+/Users/zacharystowell/code/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/zacharystowell/code/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.dev.json
+/Users/zacharystowell/code/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/zacharystowell/code/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csprojAssemblyReference.cache
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/zacharystowell/code/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.genruntimeconfig.cache
